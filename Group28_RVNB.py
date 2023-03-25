@@ -1,11 +1,3 @@
-# Group Number : 28
-# Roll Numbers : Anuj Kakde (20CS30005)
-#                Sudeep Hansda (22CS60R74)
-#                Gajendra Singh (22ID60R20)
-# Project Number : RVNB
-# Project Title : Classification of Rice Varieties using Gaussian Naïve Bayes Learning Model
-
-
 import numpy as np 
 import pandas as pd
 import matplotlib.pyplot as plt
